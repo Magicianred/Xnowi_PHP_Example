@@ -1,0 +1,41 @@
+[
+    {
+        "name": "magicianred/xnowi",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Magicianred/Xnowi_PHP.git",
+            "reference": "26dbf0eb55a351d2a3201ea82d5ade33c2e97b0e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Magicianred/Xnowi_PHP/zipball/26dbf0eb55a351d2a3201ea82d5ade33c2e97b0e",
+            "reference": "26dbf0eb55a351d2a3201ea82d5ade33c2e97b0e",
+            "shasum": ""
+        },
+        "require": {
+            "ext-xsl": ">=5.6",
+            "php": ">=5.6.0"
+        },
+        "time": "2020-02-29T16:10:23+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Xnowi\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "AGPL-3.0-only"
+        ],
+        "authors": [
+            {
+                "name": "Simone \"Magicianred\" Paolucci",
+                "email": "magicianred@gmail.com"
+            }
+        ],
+        "description": "Project xnowi is based on a simple concept, the separation of content from presentation through XML and XSLT. A single XML and many XSL to get many different results, not all visual."
+    }
+]

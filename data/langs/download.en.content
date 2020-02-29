@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+  <content xml:lang="it">
+  	<header>
+  		<slogan>demo made with <strong>xnowi</strong>, free software to build sites with multiple output</slogan>
+  	</header>
+  	<text>
+  	    <h3>Download of <strong>xnowi</strong></h3>
+  	    <p>!!! The translation is made with Google Translate, have pity. I will try to improve it !!!</p>
+  	    <p>
+  	    	The project <strong>xnowi</strong> is currently in version 0.1.
+  	    	<br />
+  	    	So we still have to work a bit, but for use at simple, with simple changes you can not get a good result.
+  	    </p>
+  	    <p>
+			The <strong>source code</strong> of the project are available at this address:
+  	    	<a href="https://github.com/Magicianred/Xnowi_PHP">Download or view xnowi freely from GitHub</a>.
+  	    	<ul>
+  	    		<li>
+					<h4>PHP:</h4>
+					<br />
+					Install xnowi with composer (https://packagist.org/packages/magicianred/xnowi)
+					<br />
+					<code>composer require magicianred/xnowi</code>
+					<br /><br />
+  	    			xnowi alpha 0.2 <a href="https://github.com/Magicianred/Xnowi_PHP">Download or view xnowi freely from GitHub</a>.
+					<br /><br />
+					(xnowi alpha 0.1 - released on 21/03/2011 <a href="http://sourceforge.net/projects/xnowi/files/">Download xnowi freely on SourceForge.net</a>.)
+				</li>
+				<li>
+					<h4>ASP:</h4>
+					<br />
+					<em>not will develop</em>
+				</li>
+				<li>
+					<h4>ASP.net:</h4>
+					<br />
+					<em>not yet available</em>
+				</li>
+			</ul>
+			<hr/>
+		</p>
+  	    <p>
+  	    	<strong>xnowi</strong> is <em>free software</em> to which you can <em>download it</em> for freely, <em>use it</em> for private or professional, 
+  	    	<em>to study</em> the code and <em>modify it</em>.
+  	    	<br />
+  	    	<u>If you change, however,</u> you must release the code under the same license to allow others to have the same <strong>freedom</strong> you enjoyed yourself.
+  	    	<br/><br/>
+  	    	It is also nice to receive: opinions, suggestions, corrections 
+  	    	(you know the difference between <a href="http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar">the cathedral and the bazaar</a>? here is a bazaar:), 
+  	    	links to sites that use <strong>xnowi</strong> (so as to create a list ), 
+  	    	and any <a href="donate.php" title="Make a donation">donation</a> (even programmers need to get a beer from time to time ;)
+  	    </p>	    
+	</text>
+  </content>
+</languages>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<website>
+  <name>Xs.WebUI</name>
+  <denomination>xnowi not only web interface</denomination>
+  <slogan>free software per realizzare siti con output multipli</slogan>
+  <webs>
+    <web type="info">http://simone.paolucci.name/xnowi</web>
+  </webs>
+  <mails>
+    <mail type="info">info@simone.paolucci.name</mail>
+  </mails>
+  <contacts>
+    <contact type="skype">PaolucciSimone</contact>
+    <contact type="msn">simonepaolucci@hotmail.com</contact>
+  </contacts>
+</website>

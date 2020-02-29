@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+  <content xml:lang="it">
+  	<header>
+  		<slogan>demo made with <strong>xnowi</strong>, free software to build sites with multiple output</slogan>
+  	</header>
+  	<text>
+  	    <h3>Donate to <strong>xnowi</strong></h3>
+  	    <p><em>!!! The translation is made with Google Translate, have pity. I will try to improve it !!! </em></p>
+  	    <p>
+  	    	<strong>xnowi</strong> is <em>free software</em> to which you can <em>download it</em> for freely, <em>use it</em> for private or professional, 
+  	    	<em>to study</em> the code and <em>modify it</em>.
+  	    	<br />
+  	    	<u>If you change, however,</u> you must release the code under the same license to allow others to have the same <strong>freedom</strong> you enjoyed yourself.
+  	    	<br/><br/>
+  	    	It is also nice to receive: opinions, suggestions, corrections 
+  	    	(you know the difference between <a href="http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar">the cathedral and the bazaar</a>? here is a bazaar:), 
+  	    	links to sites that use <strong>xnowi</strong> (so as to create a list ), 
+  	    	and any donation (even programmers need to get a beer from time to time ;)
+  	    </p>	    
+  	    <p>
+  	    	At the time you make a donation in the following ways:
+  	    	<ul>
+  	    		<li>Paypal: magicianred@gmail.com</li>
+  	    	</ul>
+  	    </p>
+  	    <p>
+  	    	As of 21/03/2011, the project has received a total of euro <strong>0</strong> in donations.
+  	    </p>    
+	</text>
+  </content>
+</languages>

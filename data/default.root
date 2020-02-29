@@ -1,0 +1,10 @@
+<!DOCTYPE root [
+  <!ENTITY website SYSTEM "core/website.xml">
+  <!ENTITY navigation SYSTEM "core/menu.xml">
+  <!ENTITY content SYSTEM "content/default.content">
+]>
+<root>
+  &website;
+  &navigation;
+  &content;
+</root>

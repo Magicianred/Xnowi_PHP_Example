@@ -1,0 +1,95 @@
+html {
+    margin: 0px;
+}
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+/* title */
+h1 {
+    font-size: xx-large;
+}
+h1 em {
+    font-size: medium;
+}
+h2 {
+    font-size: x-large;
+}
+h3 {
+    font-size: large;
+}
+
+object.image {
+    display: block;
+    border: none;
+}
+#logo {
+    float: left;
+}
+
+/* header */
+#header {
+    text-align: right;
+    background-color: #000055;
+    color: silver;
+    margin: 15px 30px;
+    padding: 10px 30px;
+}
+#header p {
+    font-size: 14px;
+}
+
+/* footer */
+#footer {
+    text-align: right;
+    background-color: #000055;
+    color: silver;
+    margin: 15px 30px;
+    padding: 10px 30px;
+}
+#footer p {
+    font-size: 14px;
+}
+#footer p a, #footer p a:link, a:active, p a:visited {
+    color: silver;
+}
+
+/* content */
+#content {
+    min-height: 500px;
+    height: 500px;
+    margin: 5px 10px;
+    padding: 10px 10px;
+    color: black;
+    background-color: white;
+    font-size: 13px;
+    font-weight: 100;
+}
+#strong {
+    font-weight: bold;
+}
+
+/* navigation */
+#navigation {
+    display: inline;
+    float: left;
+    min-height: 500px;
+    height: 500px;
+    width: 150px;
+    margin: 5px 30px;
+    padding: 5px 15px;
+    border-right: #000055 2px solid;    
+}
+#navigation ul {
+    list-style-position: outside;
+    list-style-type: none;
+}
+#navigation ul li {
+}
+
+
+/* links */
+a, a:link, a:active, a:visited {
+    color: black;
+}

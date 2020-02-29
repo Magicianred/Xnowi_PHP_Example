@@ -1,0 +1,18 @@
+{
+    "name": "magicianred/xnowi-php-example",
+    "description": "A site of example of Xnowi integration",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.0",
+        "ext-xsl": ">=5.6.0",
+        "magicianred/xnowi": "dev-master"
+    },
+    "license": "AGPL-3.0-only",
+    "authors": [
+        {
+            "name": "Magicianred",
+            "email": "magicianred@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

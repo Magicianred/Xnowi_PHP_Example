@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+	<strings xml:lang="it">
+		<string id="1">Hola Mundo</string>
+		<string id="2">Usuario no autenticado</string>
+		<string id="3">Puramente demostrativo, no realmente el control de acceso</string>
+		<string id="4">Bienvenido</string>
+		<string id="5">Usuario autenticado</string>
+		<string id="6">Salir del sitio</string>
+		<string id="7">Usuario</string>
+		<string id="8">Password</string>
+		
+		<string id="9" name="menu-navigation">Navegación</string>
+		<string id="10" name="link-home">Home Page</string>
+		<string id="11" name="link-download">Download</string>
+		<string id="12" name="link-donate">Donación</string>
+		<string id="13" name="link-contact">Contactos</string>
+		<string id="14" name="menu-mode">Mode</string>
+		<string id="15" name="link-web">Sitos Web</string>
+		<string id="16" name="link-mobile">Móvil</string>
+		<string id="17" name="link-onlytext">Texto/Imprimir</string>
+		<string id="18" name="menu-language">Lingua</string>
+		<string id="19" name="link-it">Italiano</string>
+		<string id="20" name="link-en">Inglés</string>
+		<string id="21" name="link-es">Español</string>
+		<string id="24" name="title-link-mode">Cambia a</string>
+		<string id="25" name="title-link-language">Pasar a la lengua</string>
+		<string id="27" name="accesskey-link-navigation">Ir al menù de navegación</string>
+		
+		<string id="22">una idea de</string>
+		<string id="23">es un software libre publicado bajo</string>
+		<string id="28">obtenidos por</string>
+		<string id="29">es un sitio web diseñado por</string>
+		<string id="30">para probar su funcionalidad.</string>
+		<string id="31">En la descarga se encuentra el ejemplo completo.</string>
+		
+		<string id="26" name="disclaim-onlytext">!!! Precaución !!! La versión texto es muy general, cuando se utiliza para la accesibilidad debe ser mejorado, 
+			como se muestra en este <a xml:lang="it" href="http://blog.html.it/05/01/2011/solo-testo-non-significa-accessibile/" title="'Sólo texto' no significa asequibles - HTML.it">
+					excelente artóculo de HTML.it</a> !!!. (ACCESSKEY: N para el menù).
+		</string>
+	</strings>
+</languages>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+  <content xml:lang="it">
+  	<header>
+  		<slogan>demo made with <strong>xnowi</strong>, free software to build sites with multiple output</slogan>
+  	</header>
+  	<text>
+  	    <h3>Welcome to <strong>xnowi</strong></h3>
+  	    <p><em>!!! The translation is made with Google Translate, have pity. I will try to improve it !!! </em></p>
+  	    <p>
+  	    	Project <strong>xnowi</strong> is based on a simple concept, already known and used.
+  	    	<br />
+  	    	The separation of content from presentation through XML and XSL. A single XML and XSL to get many different results, not all visual.
+  	    	<br />
+  	    	For example you could create a XSL for display on the Web, one optimized for mobile phone and another for printing.
+  	    	<br/>
+  	    	Or you can still make a version in HTML4 and HTML5, both co-exist at the same time.
+  	    	<br/>
+  	    	All without having to redo a website (of course I speak of the implementation date/logic) for each version.
+  	    	<br/>
+  	    	The best would get to have an XML standard for content so you can easily create XSL adaptable with few or no modifications.
+  	    	<br/><br/>
+  	    	I imagine people like me, that is not web designer, do a search and discharging from the internet templates (free or paid) that implement easily.
+  	    	Oh! finally we could concentrate on server-side programming without having to improvise graphics, or having to spend time adapting the template
+  	    	html and css to your code.
+  	    </p>
+  	    <p>
+  	    	This is a test site made <strong>xnowi</strong> to demonstrate its functionality.
+  	    	<br />
+  	    	In the navigation menu you can scroll through the pages, but you can also change the display mode and the language of the site.
+  	    	<br />
+  	    	There is also the possibility of access, of course take any data you put it not really works, but it shows the interaction with the server-side with the XSL.
+  	    </p>
+  	    <p>
+  	    	<strong>xnowi</strong> is <em>free software</em> to which you can <em>download it</em> for freely, <em>use it</em> for private or professional, 
+  	    	<em>to study</em> the code and <em>modify it</em>.
+  	    	<br />
+  	    	<u>If you change, however,</u> you must release the code under the same license to allow others to have the same <strong>freedom</strong> you enjoyed yourself.
+  	    	<br/><br/>
+  	    	It is also nice to receive: opinions, suggestions, corrections 
+  	    	(you know the difference between <a href="http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar">the cathedral and the bazaar</a>? here is a bazaar:), 
+  	    	links to sites that use <strong>xnowi</strong> (so as to create a list ), 
+  	    	and any <a href="donate.php" title="Make a donation">donation</a> (even programmers need to get a beer from time to time ;)
+  	    </p>	    
+	</text>
+  </content>
+</languages>

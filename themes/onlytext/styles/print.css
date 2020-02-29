@@ -1,0 +1,96 @@
+/*
+ * http://www.alistapart.com/articles/goingtoprint/ 
+ */
+html {
+    margin: 0px;
+}
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+/* title */
+h1 {
+    font-size: xx-large;
+}
+h1 em {
+    font-size: medium;
+}
+h2 {
+    font-size: x-large;
+}
+h3 {
+    font-size: large;
+}
+
+object.image {
+    display: none;
+    border: none;
+}
+#logo {
+	display: none;
+    float: left;
+}
+
+/* header */
+#header {
+    border: black thin solid;
+    color: black;
+    margin: 15px 30px;
+    padding: 10px 30px;
+}
+#header p {
+    font-size: 14px;
+}
+
+/* footer */
+#footer {
+    border: black thin solid;
+    color: black;
+    margin: 15px 30px;
+    padding: 10px 30px;
+}
+#footer p {
+    font-size: 14px;
+}
+#footer p a, #footer p a:link, a:active, p a:visited {
+    color: silver;
+}
+
+/* content */
+#content {	
+	width: auto;
+	border: 0;
+	margin: 0 5%;
+	padding: 0;
+	float: none !important;
+	color: black;
+    background-color: white;
+    font-size: 13px;
+}
+
+/* navigation */
+#navigation {
+    display:none;
+}
+#navigation ul {
+}
+#navigation ul li {
+}
+
+
+/* links */
+a:link, a:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+#content a:link:after, #content a:visited:after {
+   content: " (" attr(href) ") ";
+   font-size: 90%;
+   }
+#content a[href^="/"]:after {
+  content: " (http://simone.paolucci.name/xnowi" attr(href) ") ";
+   }
+

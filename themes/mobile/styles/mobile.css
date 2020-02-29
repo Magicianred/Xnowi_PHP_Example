@@ -1,0 +1,110 @@
+html {
+  margin: 0em 0.5em;
+}
+body
+{
+  background-color: White;
+  font-family: "Trebuchet MS", Georgia, Arial, sans-serif;
+  font-size: 100%;
+  color: Black;
+  text-align:center;
+}
+#header {
+  display: block;
+  clear: both;
+  background-color: #8a9;
+  font-family: 'Arial Black';
+  color: White;
+  padding: 0.5em 0em;  
+  margin: 0em 0em 1em 0em;
+}
+h1 {
+  font-size: x-large;
+  text-indent: 10%;
+  text-transform: capitalize;
+  margin: 0em;
+  padding: 0em;
+}
+h2 {
+  font-size: large;
+  text-indent: 10%;
+  letter-spacing: 0.2em;  
+  margin: 0em;
+  padding: 0em;
+}
+#footer {
+  display: block;
+  clear: both;
+  background-color: #8a9;
+  font-family: Courier;
+  color: White;
+  padding: 0.5em 0.1em;
+  font-size: small;
+  margin: 0.5em 0em 0em 0em;
+}
+.content {
+  display: block;
+  clear: both;
+  padding: 0em 0.5em;
+}
+.contact {
+  font-size: small;
+}
+h3 {
+  text-indent: 3%;
+  font-style: italic;
+  font-size: large;
+  margin: 0em;
+  padding: 0em;
+}
+hr {
+  display: none;
+}
+a {
+  color: Maroon;
+}
+dl {
+  float: left;
+  width: 20em;
+  margin: 0em 1em;
+}
+dt {
+  float: left;
+}
+dd {
+  display: block;
+  clear: left;
+  color: Blue;
+  padding: 0.2em 0em;
+}
+/* TABELLE TARIFFARIO */
+table.tariff {
+  margin: 1em 2em;
+  text-align: left;
+}
+table.tariff tr td {
+  border: solid thin black;
+  padding: 0.5em;
+}
+.caption {
+  font-weight: bold;
+  font-variant:small-caps;
+}
+.orange {
+  background-color: #FFA07A;
+}
+.violet {
+  background-color: #7B68EE;
+}
+.yellow {
+  background-color: #FFD700;
+}
+.price {
+  width: 2.5em;
+  text-align:center;
+}
+.relief {
+  font-weight: bold;
+  text-decoration: underline;
+  font-style: italic;
+}

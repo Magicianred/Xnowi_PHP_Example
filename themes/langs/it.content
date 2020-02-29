@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+	<strings xml:lang="it">
+		<string id="1">Ciao Mondo</string>
+		<string id="2">Utente non loggato</string>
+		<string id="3">Puramente dimostrativo, non effettua un vero controllo di accesso</string>
+		<string id="4">Benvenuto</string>
+		<string id="5">Utente loggato</string>
+		<string id="6">Esci dal sito</string>
+		<string id="7">Utente</string>
+		<string id="8">Password</string>
+		
+		<string id="9" name="menu-navigation">Navigazione</string>
+		<string id="10" name="link-home">Home Page</string>
+		<string id="11" name="link-download">Download</string>
+		<string id="12" name="link-donate">Donazione</string>
+		<string id="13" name="link-contact">Contatti</string>
+		<string id="14" name="menu-mode">Modalità</string>
+		<string id="15" name="link-web">Sito Web</string>
+		<string id="16" name="link-mobile">Cellulare</string>
+		<string id="17" name="link-onlytext">Testo/Stampa</string>
+		<string id="18" name="menu-language">Lingua</string>
+		<string id="19" name="link-it">Italiano</string>
+		<string id="20" name="link-en">Inglese</string>
+		<string id="21" name="link-es">Spagnolo</string>
+		<string id="24" name="title-link-mode">Passa a</string>
+		<string id="25" name="title-link-language">Passa alla lingua</string>
+		<string id="27" name="accesskey-link-navigation">Vai al menù di navigazione</string>
+		
+		<string id="22">da un'idea di</string>
+		<string id="23">è software libero rilasciato sotto</string>
+		<string id="28">derivato dalla</string>
+		<string id="29">è un sito sviluppato con</string>
+		<string id="30">per testare queste funzionalità.</string>
+		<string id="31">Nell'area download tu puoi trovare l'esempio completo.</string>
+		<string id="32">L'immagine di Wiball (la pallina seduta sul mouse) è una relizzazione di <a href="http://www.facebook.com/pages/Elisa-Ragni/159242230776374" title="Pagina Facebook di Elisa Ragni">Elisa Ragni</a> ed è rilasciata sotto licenza 
+			<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+			Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0 Unported License</a></string>
+		
+		<string id="26" name="disclaim-onlytext">!!! Attenzione !!! la versione testo è molto approssimativa, se usata per l'accessibilità dovrebbe essere migliorata 
+				come indicato in questo <a href="http://blog.html.it/05/01/2011/solo-testo-non-significa-accessibile/" title="'Solo testo' non significa accessibile - HTML.it">
+					ottimo articolo di HTML.it</a> !!!. (ACCESSKEY: N per il menù).
+		</string>
+	</strings>
+</languages>

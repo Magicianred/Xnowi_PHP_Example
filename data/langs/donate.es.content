@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+  <content xml:lang="es">
+  	<header>
+  		<slogan>demo hecho por <strong>xnowi</strong>, libre software para crear sitios con m�ltiples salidas</slogan>
+  	</header>
+  	<text>
+		<h3> Donaciones al proyecto <strong> xnowi </strong> </h3>
+  		<p>
+  			<strong> xnowi </strong> es <em> software gratuito </em> para que pueda <em> descargarlo </em> libremente, <em> usarlo </em> para uso privado o profesional,
+  			<em> estudie </em> el código y <em> modifíquelo </em>.
+  			<br />
+  			<u> Sin embargo, si lo cambia </u> debe liberar el código correspondiente con la misma licencia para permitir que otros tengan el mismo
+  			<strong> libertad </strong> que disfrutaste.
+  			<br/>
+  			También es agradable recibir: opiniones, sugerencias, críticas, correcciones.
+  			(¿sabes la diferencia entre <a href="http://it.wikipedia.org/wiki/La_Cattedrale_e_il_Bazaar"> la catedral y el bazar </a>? aquí hay un bazar! :),
+  			enlaces a sitios que usan <strong> xnowi </strong> (para crear una lista),
+  			y algunas donaciones (incluso los programadores necesitan tomar una cerveza de vez en cuando;)
+  		</p>
+  		<p>
+  			Actualmente puede hacer una donación de las siguientes maneras:
+  			<ul>
+  				<li> Paypal: magicianred@gmail.com </li>
+  			</ul>
+  		</p>
+  		<p>
+  			A partir del 21/03/2011, el proyecto ha recibido un total de <strong> euro 0 </strong> en donaciones.
+  		</p>
+	</text>
+  </content>
+</languages>

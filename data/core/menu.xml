@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<navigations>
+  <sections>
+    <section name="home" index="1">
+      <name>Home Page</name>
+      <description>La pagina principale del sito</description>
+      <pages><!-- page name 'index' dont work !problem -->
+        <page name="home" section="home" index="1" href="home.php" description="Vai alla Home Page"></page>
+      </pages>
+    </section>
+    <section name="download" index="2">
+      <name>Download</name>
+      <description>Informazioni su come scaricare il codice</description>
+      <pages>
+        <page name="download" section="download" index="1" href="download.php" description="Vai alla pagina Download"></page>
+      </pages>
+    </section>
+    <section name="donate" index="3">
+      <name>Donate</name>
+      <description>Informazioni su come effettuare una donazione al progetto</description>
+      <pages>
+        <page name="donate" section="donate" index="1" href="donate.php" description="Vai alla pagina Donazione"></page>
+      </pages>
+    </section>
+    <!-- section name="contact" index="4">
+      <name>Contatti</name>
+      <description>Informazioni su come mettersi in contatto con me</description>
+      <pages>
+        <page name="contact" section="contact" index="1" mode="external" href="http://simone.paolucci.name/forum" description="Vai alla pagina Contatti"></page>
+      </pages>
+    </section -->
+  </sections>
+  <modes>
+    <mode id="web" name="web" path="/themes/web">Sito Web</mode>
+    <mode id="mobile" name="mobile" path="/themes/mobile">Cellulare</mode>
+    <mode id="onlytext" name="onlytext" path="/themes/onlytext">Testo/Stampa</mode>
+  </modes>
+  <langs>
+    <lang id="it" name="italiano" path="/lang/it">Italiano</lang>
+    <lang id="en" name="inglese" path="/lang/en">Inglese</lang>
+    <lang id="es" name="spagnolo" path="/lang/es">Spagnolo</lang>
+  </langs>
+  <lang-pagenames>
+	<!-- be improved, should be contained in the respective language files  -->
+		<string name="it-pagename_home">principale</string>
+		<string name="it-pagename_donate">donazione</string>
+		<string name="it-pagename_download">scarica</string>
+		<string name="it-pagename_contact">contatti</string>
+		
+		<string name="es-pagename_home">principal</string>
+		<string name="es-pagename_donate">donacion</string>
+		<string name="es-pagename_download">descarga</string>
+		<string name="es-pagename_contact">contactos</string>
+		
+		<string name="en-pagename_home">index</string>
+		<string name="en-pagename_donate">donate</string>
+		<string name="en-pagename_download">download</string>
+		<string name="en-pagename_contact">contact</string>
+  </lang-pagenames>
+</navigations>

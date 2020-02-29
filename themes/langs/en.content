@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+	<strings xml:lang="en">
+		<string id="1">Hello World</string>
+		<string id="2">Unauthenticated user</string>
+		<string id="3">Purely demonstrative, does not really control access</string>
+		<string id="4">Welcome</string>
+		<string id="5">Authenticated user</string>
+		<string id="6">Exit the site</string>
+		<string id="7">User</string>
+		<string id="8">Password</string>
+		
+		<string id="9" name="menu-navigation">Navigation</string>
+		<string id="10" name="link-home">Home Page</string>
+		<string id="11" name="link-download">Download</string>
+		<string id="12" name="link-donate">Donation</string>
+		<string id="13" name="link-contact">Contact</string>
+		<string id="14" name="menu-mode">Mode</string>
+		<string id="15" name="link-web">Web site</string>
+		<string id="16" name="link-mobile">Mobile</string>
+		<string id="17" name="link-onlytext">Text/Print</string>
+		<string id="18" name="menu-language">Language</string>
+		<string id="19" name="link-it">Italian</string>
+		<string id="20" name="link-en">English</string>
+		<string id="21" name="link-es">Spanish</string>
+		<string id="24" name="title-link-mode">Switches to</string>
+		<string id="25" name="title-link-language">Pass the language</string>
+		<string id="27" name="accesskey-link-navigation">Go to navigation menu</string>
+		
+		<string id="22">an idea of</string>
+		<string id="23">is free software released under</string>
+		<string id="28">derived by</string>
+		<string id="29">is a website designed with</string>
+		<string id="30">to test its functionality.</string>
+		<string id="31">In the download you can find the complete example.</string>
+		
+		<string id="26" name="disclaim-onlytext">!!! Caution !!! The text version is very rough, when used for accessibility should be improved 
+			as shown in this <a xml:lang="it" href="http://blog.html.it/05/01/2011/solo-testo-non-significa-accessibile/" title="'Text Only' does not mean accessible - HTML.it">
+					excellent article of HTML.it</a> !!!. (ACCESSKEY: N to the menu).
+		</string>
+	</strings>
+</languages>

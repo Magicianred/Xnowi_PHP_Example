@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<languages>
+  <content xml:lang="it">
+  	<header>
+  		<slogan>demo realizzata con <strong>xnowi</strong>, software libero per realizzare siti con output multipli</slogan>
+  	</header>
+  	<text>
+  	    <h3>Download di <strong>xnowi</strong></h3>
+  	    <p>
+  	    	Il progetto <strong>xnowi</strong> è attualmente in versione 0.2.
+  	    	<br />
+  	    	Quindi c'è ancora da lavorarci un po', ma per un utilizzo semplice, con semplici modifiche si riesce ad ottenere un buon risultato.
+  	    </p>
+  	    <p>
+  	    	<ul>
+  	    		<li>
+					<h4>PHP:</h4>
+					<br />
+					Installa xnowi tramite composer (https://packagist.org/packages/magicianred/xnowi)
+					<br />
+					<code>composer require magicianred/xnowi</code>
+					<br /><br />
+  	    			xnowi alpha 0.2 <a href="https://github.com/Magicianred/Xnowi_PHP">Scarica o visualizza xnowi liberamente da GitHub</a>.
+					<br /><br />
+					(xnowi alpha 0.1 - rilasciato il 21/03/2011 <a href="http://sourceforge.net/projects/xnowi/files/">Scarica xnowi liberamente su SourceForge.net</a>.)
+				</li>
+				<li>
+					<h4>ASP:</h4>
+					<br />
+					<em>non verrà più implementata</em>
+				</li>
+				<li>
+					<h4>ASP.net:</h4>
+					<br />
+					<em>non ancora disponibile</em>
+				</li>
+			</ul>
+			<hr/>
+		</p>
+  	    <p>
+  	    	<strong>xnowi</strong> è <em>software libero</em> per cui puoi <em>scaricarlo</em> liberamente, <em>usarlo</em> per usi privati o professionali, 
+  	    	<em>studiarne</em> il codice e <em>modificarlo</em>.
+  	    	<br />
+  	    	<u>Se lo modifichi però</u> devi rilasciare il relativo codice con la stessa licenza per permettere ad altri di avere le stesse 
+  	    	<strong>libertà</strong> di cui hai goduto tu.
+  	    	<br/><br/>
+  	    	Inoltre è piacevole ricevere: pareri, suggerimenti, critiche, correzioni 
+  	    	(sapete la differenza fra <a href="http://it.wikipedia.org/wiki/La_Cattedrale_e_il_Bazaar">la cattedrale e il bazar</a>? qui è un bazar! :), 
+  	    	link ai siti che utilizzano <strong>xnowi</strong> (così da creare una lista),
+  	    	e qualche <a href="donate.php" title="Effettua una donazione">donazione</a> (anche i programmatori hanno bisogno di farsi una birra di tanto in tanto ;)
+  	    </p>	    
+	</text>
+  </content>
+</languages>
